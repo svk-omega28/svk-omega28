@@ -25,7 +25,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/svk_omega28/)
 
 ## 📊 GitHub статистика
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)](https://github.com/yourusername)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)](https://github.com/yourusername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=svk-omega28&show_icons=true&theme=dracula)](https://github.com/svk-omega28)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svk-omega28&layout=compact&theme=dracula)](https://github.com/svk-omega28)
 
 💡 Всегда открыт к новым возможностям и сотрудничеству!
